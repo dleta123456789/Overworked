@@ -1,0 +1,74 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 19.11.2016 11:02:44
+
+newmtl Expositor1
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.252000 0.252000 0.252000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka J:\H Lenovo\Books-table-3D-Model-b2da4993\End1\Expositor1DiffuseMap.jpg
+	map_Kd J:\H Lenovo\Books-table-3D-Model-b2da4993\End1\Expositor1DiffuseMap.jpg
+	map_bump Map__13_Normal_Bump.tga
+
+newmtl books_4
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.584314 0.584314 0.584314
+	Kd 0.584314 0.584314 0.584314
+	Ks 0.179608 0.179608 0.179608
+	Ke 0.000000 0.000000 0.000000
+	map_Ka J:\H Lenovo\Books-table-3D-Model-b2da4993\BOOKS_04.JPG
+	map_Kd J:\H Lenovo\Books-table-3D-Model-b2da4993\BOOKS_04.JPG
+
+newmtl pages
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.584314 0.584314 0.584314
+	Kd 0.584314 0.584314 0.584314
+	Ks 0.242471 0.242471 0.242471
+	Ke 0.000000 0.000000 0.000000
+	map_Ka J:\H Lenovo\Books-table-3D-Model-b2da4993\Side1.jpg
+	map_Kd J:\H Lenovo\Books-table-3D-Model-b2da4993\Side1.jpg
+	map_bump Map__6_Normal_Bump.tga
+
+newmtl books_5
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.584314 0.584314 0.584314
+	Kd 0.584314 0.584314 0.584314
+	Ks 0.134706 0.134706 0.134706
+	Ke 0.000000 0.000000 0.000000
+	map_Ka J:\H Lenovo\Books-table-3D-Model-b2da4993\BOOKS_05.JPG
+	map_Kd J:\H Lenovo\Books-table-3D-Model-b2da4993\BOOKS_05.JPG
+
+newmtl books_6
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.584314 0.584314 0.584314
+	Kd 0.584314 0.584314 0.584314
+	Ks 0.107765 0.107765 0.107765
+	Ke 0.000000 0.000000 0.000000
+	map_Ka J:\H Lenovo\Books-table-3D-Model-b2da4993\BOOKS_06.JPG
+	map_Kd J:\H Lenovo\Books-table-3D-Model-b2da4993\BOOKS_06.JPG
